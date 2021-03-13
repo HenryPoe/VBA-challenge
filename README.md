@@ -30,4 +30,5 @@
 * Actual stock data macro-enabled Workbook
 
 * .vb file that contains only the VBA script
+
 	*For instructors - I was unable to save as .vba, but it seems that .vb is essentially the same thing
