@@ -15,18 +15,19 @@
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
 ## BONUS
 
-* Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
+* Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
 * Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
-## Screenshots
+## Included in repository
 
-![2016](Images/2016 Screenshot.png)
+* Screenshots of what the sheets look like after running VBA script
 
-![2015](Images/2015 Screenshot.png)
+* Testing macro-enabled Workbook
 
-![2014](Images/2014 Screenshot.png)
+* Actual stock data macro-enabled Workbook
+
+* .vb file that contains only the VBA script
+	*For instructors - I was unable to save as .vba, but it seems that .vb is essentially the same thing
